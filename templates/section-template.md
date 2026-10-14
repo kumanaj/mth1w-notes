@@ -1,6 +1,6 @@
-# X.Y Section Title
+# Topic Title
 
-> 📖 Textbook pp. ___–___ · [⬅ Chapter X](../)
+> 📘 **Curriculum:** X1.1 · 📖 **Textbook:** §_._, pp. ___–___ · [⬅ Strand X](../)
 
 ## Big idea
 One sentence: what is this section really about?
@@ -32,4 +32,4 @@ One sentence: what is this section really about?
 </details>
 
 ---
-[⬅ Previous](../) · [Chapter X](../) · [Next ➡](../)
+[⬅ Previous topic](../) · [Strand X](../) · [Next: topic ➡](../)
