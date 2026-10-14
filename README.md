@@ -54,7 +54,7 @@ big idea → vocabulary → key concepts → worked examples → watch out → q
 - ✅ [Collect Like Terms](C-algebra/03-like-terms/) · *C1.3, C1.4*
 - ✅ [Add and Subtract Polynomials](C-algebra/04-add-and-subtract-polynomials/) · *C1.3, C1.4*
 - ✅ [The Distributive Property](C-algebra/05-distributive-property/) · *C1.4*
-- 📝 [Solving Equations](C-algebra/06-solving-equations/) · *C1.5*
+- ✅ [Solving Equations](C-algebra/06-solving-equations/) · *C1.5*
 - ⚠️ [Coding](C-algebra/07-coding/) · *C2.1, C2.2, C2.3*
 - ✅ [Linear and Non-Linear Relations](C-algebra/08-linear-and-non-linear-relations/) · *C3.1, C4.1*
 - ✅ [Distance-Time Graphs](C-algebra/09-distance-time-graphs/) · *C3.1*

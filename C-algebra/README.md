@@ -31,7 +31,7 @@ flowchart LR
 | 03 | [Collect Like Terms](03-like-terms/) | C1.3, C1.4 | §3.5, pp. 144–153 | ✅ Notes |
 | 04 | [Add and Subtract Polynomials](04-add-and-subtract-polynomials/) | C1.3, C1.4 | §3.6, pp. 154–159 | ✅ Notes |
 | 05 | [The Distributive Property](05-distributive-property/) | C1.4 | §3.7, pp. 160–169 | ✅ Notes |
-| 06 | [Solving Equations](06-solving-equations/) | C1.5 | Ch. 4, pp. 182–233 | 📝 Outline |
+| 06 | [Solving Equations](06-solving-equations/) | C1.5 | Ch. 4, pp. 182–233 | ✅ Notes |
 | 07 | [Coding](07-coding/) | C2.1, C2.2, C2.3 | not covered | ⚠️ Not in textbook |
 | 08 | [Linear and Non-Linear Relations](08-linear-and-non-linear-relations/) | C3.1, C4.1 | §2.5, pp. 77–87 | ✅ Notes |
 | 09 | [Distance-Time Graphs](09-distance-time-graphs/) | C3.1 | §2.6, pp. 88–94 | ✅ Notes |
