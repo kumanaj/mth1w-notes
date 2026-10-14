@@ -1,0 +1,5 @@
+# Keep the textbook PDFs out of the repo (large + copyrighted)
+*.pdf
+*.zip
+.DS_Store
+__MACOSX/
