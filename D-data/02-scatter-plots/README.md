@@ -56,6 +56,21 @@ Speed (m/s)
        2.0   3.0   4.0   5.0
 ```
 
+### Example 3: Height and shoe size (Chapter 2 Review, Q6)
+| Height (cm) | 157 | 168 | 162 | 151 | 186 | 180 | 167 | 159 | 168 | 181 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Shoe size | 7 | 8.5 | 8 | 6.5 | 12 | 11 | **12** | 9 | 9.5 | 10 |
+
+- **Independent:** height. **Dependent:** shoe size (taller people tend to have bigger feet, not the other way round).
+- **Relationship:** as height increases, shoe size increases, a **fairly strong positive** correlation.
+- **Outlier:** $(167, 12)$. Other boys about 167 cm wear size 8.5–9.5.
+- **Discard it?** **No.** Some people really do have large feet for their height. Keep it unless you find it was recorded wrong.
+
+### How to describe a relationship (sentence frame)
+> "As **[independent variable]** increases, **[dependent variable]** tends to **increase / decrease**.
+> The correlation is **strong / weak** and **positive / negative**. The points follow a **straight line / curve**.
+> **[Point]** is an outlier because…"
+
 ## Curriculum add-on: correlation and regression (D1.3)
 > MTH1W also asks you to describe the **correlation** and to test regression models with technology.
 

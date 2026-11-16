@@ -1,6 +1,6 @@
 # Trends, Interpolation, and Extrapolation
 
-> 📘 **Curriculum:** D1.3 · 📖 **Textbook:** §2.4, pp. 68–76 · [⬅ Strand D: Data](../)
+> 📘 **Curriculum:** D1.3 · 📖 **Textbook:** §2.4, pp. 68–76 (and §2.5, pp. 77–87) · [⬅ Strand D: Data](../)
 
 ## Big idea
 A pattern in a graph shows a **trend**. Use the trend to estimate values **between** your data
@@ -47,6 +47,52 @@ from crowds, so that year is an outlier for the long-term trend.
 
 Average yearly increase: $(823 - 658) \div 7 \approx 23.6$ dollars/year.
 Prediction for 2010: $823 + 7 \times 23.6 \approx 988$, so **about 990 dollars**, *assuming the trend continues at the same rate*.
+
+### Example 3: Canada's population (Chapter 2 Review, Q8)
+| Year | 1951 | 1961 | 1971 | 1981 | 1991 | 2001 |
+|---|---|---|---|---|---|---|
+| Population (millions) | 13.6 | 18.2 | 21.6 | 24.8 | 28.0 | 31.0 |
+
+**Interpolate for 1967** (between 1961 and 1971): the population grew $21.6 - 18.2 = 3.4$ million
+in 10 years, or $0.34$ million per year.
+$$18.2 + 6(0.34) \approx 20.2 \text{ million}$$
+
+**Extrapolate for 2021:** since 1971 it has grown about 3.2 million per decade.
+$$31.0 + 2(3.2) \approx 37.4 \text{ million}$$
+*assuming growth stays at about 3.2 million per decade.* (The 2021 census counted about 37.0 million,
+so this was a good prediction.)
+
+## Using a line of best fit to predict
+> 📖 Textbook §2.5, pp. 77–82. Linear vs. non-linear relations are covered in more detail in
+> [Strand C: Linear and Non-Linear Relations](../../C-algebra/08-linear-and-non-linear-relations/).
+
+When the data is scattered, don't just connect the dots. Draw a **line of best fit** (or a **curve of
+best fit** if the points bend) and read your predictions from it.
+
+**Rules for a line (or curve) of best fit:**
+1. It passes **through or close to as many points as possible**.
+2. Points not on it are **balanced**: about the same number **above** and **below**, spread along the whole line.
+3. It does **not** have to go through the first point, the last point, or the origin.
+4. It's **one smooth line**, not a zig-zag.
+
+```
+ y                                  How to read a prediction:
+ |                  •  /            1. Find x on the horizontal axis.
+ |              •   /•              2. Go straight UP to the line.
+ |           •  /  •                3. Go straight ACROSS to the y-axis.
+ |        • / •                     4. Read y (and include units!).
+ |     • /•
+ |    / •
+ +---------------------- x
+```
+
+**Lizard temperatures (textbook §2.5, Example 1):** a lizard's body temperature rises with the
+surrounding temperature, and the points are close to a line.
+- Interpolate at 26 °C → read up and across → about **28 °C**.
+- Extrapolate at 35 °C → extend the line → about **33 °C**, reasonable *only if* the relation stays linear above 30 °C.
+
+**When a line of best fit is a bad model:** too few points, the points follow a **curve**
+(middle points all on one side, ends on the other), or there's **no pattern** at all.
 
 ## Watch out
 - ⚠️ "If the trend continues, no children will be born in 2030" is a silly extrapolation, because trends level off. Always ask whether the answer is realistic.

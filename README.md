@@ -63,12 +63,13 @@ big idea → vocabulary → key concepts → worked examples → watch out → q
 - 📝 [Comparing Linear Relations (Point of Intersection)](C-algebra/12-comparing-linear-relations/) · *C3.3*
 
 ### [D. Data](D-data/)
-- ⚠️ [Data in the Real World and One-Variable Data](D-data/01-one-variable-data/) · *D1.1, D1.2*
+- ✅ [Data in the Real World and One-Variable Data](D-data/01-one-variable-data/) · *D1.1, D1.2* (not in textbook)
 - ✅ [Scatter Plots and Correlation](D-data/02-scatter-plots/) · *D1.3*
 - ✅ [Trends, Interpolation, and Extrapolation](D-data/03-trends-interpolation-extrapolation/) · *D1.3*
 - ✅ [Hypotheses and Sources of Data](D-data/04-hypotheses-and-data-sources/) · *D2.2, D2.3*
 - ✅ [Sampling Principles](D-data/05-sampling/) · *D2.3*
-- 📝 [The Mathematical Modelling Process](D-data/06-mathematical-modelling/) · *D2.1, D2.2, D2.3, D2.4, D2.5*
+- ✅ [The Mathematical Modelling Process](D-data/06-mathematical-modelling/) · *D2.1, D2.2, D2.3, D2.4, D2.5*
+- ✏️ [Strand D Practice Quiz](D-data/practice-quiz.md)
 
 ### [E. Geometry and Measurement](E-geometry-and-measurement/)
 - 📝 [Geometric Relationships](E-geometry-and-measurement/01-geometric-relationships/) · *E1.2*

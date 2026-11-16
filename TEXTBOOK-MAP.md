@@ -11,8 +11,10 @@ Where each part of *Principles of Mathematics 9* fits in the MTH1W strands. [⬅
 | §2.3 Use Scatter Plots to Analyse Data | 56–67 | D | [Scatter Plots and Correlation](D-data/02-scatter-plots/) |
 | §2.4 Trends, Interpolation, and Extrapolation | 68–76 | D | [Trends, Interpolation, and Extrapolation](D-data/03-trends-interpolation-extrapolation/) |
 | §2.5 Linear and Non-Linear Relations | 77–87 | C | [Linear and Non-Linear Relations](C-algebra/08-linear-and-non-linear-relations/) |
+| §2.5 Lines of best fit (for predictions) | 77–82 | D | [Trends, Interpolation, and Extrapolation](D-data/03-trends-interpolation-extrapolation/#using-a-line-of-best-fit-to-predict) |
 | §2.6 Distance-Time Graphs | 88–94 | C | [Distance-Time Graphs](C-algebra/09-distance-time-graphs/) |
 | Ch. 2 Chapter Problem (high jump experiment) | 39, 99 | D | [The Mathematical Modelling Process](D-data/06-mathematical-modelling/) |
+| Ch. 2 Review and Practice Test | 95–99 | D | [Strand D Practice Quiz](D-data/practice-quiz.md) |
 | §3.1 Build Algebraic Models Using Concrete Materials | 104–109 | C | [Algebraic Models With Tiles](C-algebra/01-algebraic-models/) |
 | §3.2 Work With Exponents | 110–118 | B | [Powers and Exponents](B-number/02-powers/) |
 | §3.3 Discover the Exponent Laws | 119–129 | B | [Exponent Laws](B-number/03-exponent-laws/) |
@@ -22,6 +24,7 @@ Where each part of *Principles of Mathematics 9* fits in the MTH1W strands. [⬅
 | §3.7 The Distributive Property | 160–169 | C | [The Distributive Property](C-algebra/05-distributive-property/) |
 | Ch. 4 Equations | 182–233 | C | [Solving Equations](C-algebra/06-solving-equations/) |
 | Ch. 5 Modelling With Graphs | 234–291 | C | [Variation, Slope, and First Differences](C-algebra/10-variation-slope-first-differences/) |
+| §5.1–5.2, §5.5 Equations of lines of best fit from data | 238–253, 272–278 | D | [The Mathematical Modelling Process](D-data/06-mathematical-modelling/) |
 | §6.1–6.6 Equations of lines | 292–343 | C | [Equations and Graphs of Lines](C-algebra/11-equations-of-lines/) |
 | §6.7 Linear Systems | 344–351 | C | [Comparing Linear Relations (Point of Intersection)](C-algebra/12-comparing-linear-relations/) |
 | Ch. 7 Geometric Relationships | 360–411 | E | [Geometric Relationships](E-geometry-and-measurement/01-geometric-relationships/) |
